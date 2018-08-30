@@ -14,6 +14,8 @@ create a folder test in C:\
 
 Go to C:\test and git clone the repo or download the repo and extract the contents in C:\test directory.
 
+#create new IAM credentials and replace access keyID and secret key in variables.tf.
+
 #Now Lets check the init/plan and apply.
 
 
