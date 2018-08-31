@@ -66,7 +66,7 @@ Put the output public ip in the browser and this must give output below.
 
 
 ```
-Hello world!!! :- prashanth
+Hello world!!
 ```
 
 ### destroy the resources
