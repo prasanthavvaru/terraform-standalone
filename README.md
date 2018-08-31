@@ -1,4 +1,4 @@
-# terraform-standalone
+# Terraform-Standalone
 Standalone single instance project setup with AWS terraform
 
 # AWS Terraform standalone setup
